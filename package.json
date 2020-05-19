@@ -1,0 +1,15 @@
+{
+  "name": "upload-aws",
+  "version": "1.0.0",
+  "description": "Upload de arquivo para um bucket AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Paulo Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.680.0",
+    "dotenv-safe": "^8.2.0"
+  }
+}
